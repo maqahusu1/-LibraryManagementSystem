@@ -3,7 +3,7 @@ namespace LibraryManagementSystem
 {
     class Program
     {
-        // Book class definition
+        
         public class Book
         {
             public int BookId { get; set; }
