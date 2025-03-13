@@ -1,0 +1,15 @@
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net7.0/LibraryManagementSystem
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net7.0/LibraryManagementSystem.deps.json
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net7.0/LibraryManagementSystem.runtimeconfig.json
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net7.0/LibraryManagementSystem.dll
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/bin/Debug/net7.0/LibraryManagementSystem.pdb
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.csproj.AssemblyReference.cache
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.AssemblyInfoInputs.cache
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.AssemblyInfo.cs
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.csproj.CoreCompileInputs.cache
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.dll
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/refint/LibraryManagementSystem.dll
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.pdb
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/LibraryManagementSystem.genruntimeconfig.cache
+/Users/maqa/Desktop/LibraryManagementSystem/LibraryManagementSystem/LibraryManagementSystem/obj/Debug/net7.0/ref/LibraryManagementSystem.dll
