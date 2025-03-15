@@ -85,7 +85,6 @@ namespace LibraryManagementSystem
                 Console.WriteLine("No books available.");
                 return;
             }
-
             foreach (var book in books)
             {
                 Console.WriteLine($"ID: {book.BookId}, Title: {book.Title}, Author: {book.Author}, Available: {(book.IsAvailable ? "Yes" : "No")}");
